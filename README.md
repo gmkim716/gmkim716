@@ -2,6 +2,7 @@
 
 - SSAFY 8th 
 - 전북대학교 경제학과
+- 경제 교육 핀테크 서비스
 
 <!--
 **gmkim716/gmkim716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
