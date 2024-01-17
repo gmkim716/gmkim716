@@ -1,8 +1,13 @@
 ### Hi there 👋
 
+### Profile
 - SSAFY 8th 
 - 전북대학교 경제학과
-- 경제 교육 핀테크 서비스
+
+### History
+- 토리에듀핀, 경제 교육 핀테크 서비스 제작 중
+- 좋은정보기술, 데이터옵스 포털: React 프론트 개발
+
 
 <!--
 **gmkim716/gmkim716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
