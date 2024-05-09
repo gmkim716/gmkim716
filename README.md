@@ -15,7 +15,7 @@
 - 좋은정보기술, 데이터옵스 포털 제작 참여: React 프론트 개발
 
 ## Skills
-- 프론트 : React, Typescript, Flutter, (Next) 
+- 프론트 : React, Typescript, Flutter, Next
 - 백엔드 : Spring, JSP
 - 기타 : Linux, Docker, Winform
 - DB : MySQL, MongoDB, Redis 등  
